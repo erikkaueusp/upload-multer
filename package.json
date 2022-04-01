@@ -1,0 +1,24 @@
+{
+  "name": "upload-arquivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikkaueusp/upload-multer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikkaueusp/upload-multer/issues"
+  },
+  "homepage": "https://github.com/erikkaueusp/upload-multer#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
+}
